@@ -20,6 +20,6 @@ app.get('/help',(req,res)=>{
     res.send("I am happy to help you ")
 })
 
-app.get('/help/users', (req, res) => {
-    res.send(`help response for users`)
+app.get('/help/:location', (req, res) => {
+    res.send(`Help requested at ${req.params.location}`)
   })
