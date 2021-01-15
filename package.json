@@ -1,0 +1,19 @@
+{
+  "name": "sn--node-express",
+  "version": "1.0.0",
+  "description": "This is my app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanthreddy1233/sn--node-express.git"
+  },
+  "author": "Sumanth Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanthreddy1233/sn--node-express/issues"
+  },
+  "homepage": "https://github.com/sumanthreddy1233/sn--node-express#readme"
+}
